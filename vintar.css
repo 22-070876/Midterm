@@ -1,0 +1,85 @@
+img.hover{
+    border-radius: 8px;
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+header {
+    background-color: rgb(193, 247, 229);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1f1d1d;
+    padding: 15px;
+    text-align: center;
+    margin: 1%;
+    text-shadow: rgb(71, 64, 64);
+}
+
+nav {
+    color: #d14b4b;
+    text-align: center;
+}
+
+nav ul:{
+    list-style-type:armenian;
+    text-align: center;
+    padding: 0;
+    border: 5;
+    
+    
+}
+a:hover{
+    color: beige;
+
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    background-size:cover;
+    margin: auto;
+
+}
+h1{
+    font-size: 300%;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-style:oblique
+    font
+}
+3.hover{
+    color:chartreuse ;
+    font-size: 25px;
+    font-style: initial;
+}
+
+.burak{
+    width: 25%;
+}
+.atr{
+    background-color: darkslategrey;
+    border: 100%;
+    border-radius: 20%;
+    text-align: center;
+    
+}
+.en{
+    margin: auto;
+    display: contents  ;
+}
+hr{
+    border-radius: 15%;
+}
